@@ -1,6 +1,6 @@
 # coderscave
 
-Task-1 EDA analysis on Terrorism-dataset can be downloaded from Google
+Task-1 EDA analysis on Terrorism-dataset can be downloaded from Kaagle
 In the task 1 of eda analysis we made data collection,data preprocessing,data cleaning,data visualizations are made for better understanding the analysis made on terrorism 
 intially I cleaned the data and I made an analysis on how much the data has been distributed over a particular range for this I used country_codes that refers the country names, I found the central tendency measures of 'killed','wounded' and I found how much the data has been distributed throughout the raw data using interquartile range and z score gives us the number of standard deviations of the particular data after finding all these we used data visualization techniques to draw out the outcomes of terrorism and comparison is made on different types of attacks and killed people and different types of weapons used and targets were made and so on. As the data is highly imbalanced,raw and unorganized we need to adapt k means clustering for avoiding the complexity of the analysis that we are making. Thus k means provides us a good accuracy level on the which part of terrorism was more and hamming loss and subset accuracy are calculated as it is a mulitlabel classification and time series analysis is used to see how terrorism can affect in the future times.
 
